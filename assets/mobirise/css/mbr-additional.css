@@ -1181,27 +1181,85 @@ section.lazy-placeholder:after {
 .cid-s6wGgtqRcC .mbr-text {
   color: #232323;
 }
-.cid-s6wUFro7WJ {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/sarang-maduqu-2-615x960.jpg");
+.cid-s6Nh6JxCzk {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
 }
-.cid-s6wUFro7WJ .mbr-section-subtitle,
-.cid-s6wUFro7WJ .mbr-text {
+.cid-s6Nh6JxCzk .mbr-section-subtitle {
   color: #767676;
 }
-.cid-s6wUFro7WJ .card {
+.cid-s6N752OdR6 {
+  background: #ffffff;
+}
+.cid-s6N752OdR6 .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-s6N752OdR6 .mbr-figure {
+  margin: 0 auto;
+}
+.cid-s6N752OdR6 figcaption {
+  position: relative;
+}
+.cid-s6N752OdR6 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-s6N752OdR6 .image-block {
+    width: 100% !important;
+  }
+}
+.cid-s6N752OdR6 .mbr-figure-caption div {
+  text-align: right;
+  color: #ffffff;
+}
+.cid-s6Nb43ZEcC {
+  background: #ffffff;
+}
+.cid-s6Nb43ZEcC .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-s6Nb43ZEcC .mbr-figure {
+  margin: 0 auto;
+}
+.cid-s6Nb43ZEcC figcaption {
+  position: relative;
+}
+.cid-s6Nb43ZEcC figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-s6Nb43ZEcC .image-block {
+    width: 100% !important;
+  }
+}
+.cid-s6Ng9vFlRU {
+  padding-top: 15px;
+  padding-bottom: 75px;
+  background-color: #efefef;
+}
+.cid-s6Ng9vFlRU .mbr-section-subtitle,
+.cid-s6Ng9vFlRU .mbr-text {
+  color: #767676;
+}
+.cid-s6Ng9vFlRU .card {
   display: -webkit-flex;
   position: relative;
   justify-content: center;
   -webkit-justify-content: center;
 }
-.cid-s6wUFro7WJ .card-wrapper {
+.cid-s6Ng9vFlRU .card-wrapper {
   height: 100%;
   box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
   transition: box-shadow 0.3s;
 }
-.cid-s6wUFro7WJ .card-wrapper .card-img {
+.cid-s6Ng9vFlRU .card-wrapper .card-img {
   display: -webkit-flex;
   flex-direction: column;
   align-items: center;
@@ -1214,39 +1272,37 @@ section.lazy-placeholder:after {
   -webkit-align-items: center;
   -webkit-justify-content: center;
 }
-.cid-s6wUFro7WJ .card-wrapper .card-img .mbr-overlay {
+.cid-s6Ng9vFlRU .card-wrapper .card-img .mbr-overlay {
   background-color: #ffffff;
   display: none;
   transition: opacity .3s;
 }
-.cid-s6wUFro7WJ .card-wrapper .card-img img {
+.cid-s6Ng9vFlRU .card-wrapper .card-img img {
   width: 100%;
 }
-.cid-s6wUFro7WJ .card-wrapper .card-box {
+.cid-s6Ng9vFlRU .card-wrapper .card-box {
   background-color: #ffffff;
   padding: 0 2rem 2rem 2rem;
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
 }
-.cid-s6wUFro7WJ .card-wrapper .card-box h4 {
+.cid-s6Ng9vFlRU .card-wrapper .card-box h4 {
   font-weight: 500;
   margin-bottom: 0;
   padding-top: 2rem;
 }
-.cid-s6wUFro7WJ .card-wrapper .card-box p {
+.cid-s6Ng9vFlRU .card-wrapper .card-box p {
   margin-bottom: 0;
   padding-top: 1.5rem;
+  padding-top: 2rem;
 }
-.cid-s6wUFro7WJ .card-wrapper:hover {
+.cid-s6Ng9vFlRU .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
 }
-.cid-s6wUFro7WJ .card-img .mbr-overlay {
+.cid-s6Ng9vFlRU .card-img .mbr-overlay {
   display: block !important;
   opacity: 0;
 }
-.cid-s6wUFro7WJ .card-img:hover .mbr-overlay {
+.cid-s6Ng9vFlRU .card-img:hover .mbr-overlay {
   opacity: .5;
-}
-.cid-s6wUFro7WJ .mbr-section-title {
-  color: #ffffff;
 }
