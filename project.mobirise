@@ -54,11 +54,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Madu NoorSiah",
+        "meta_descr": "Madu Asli Lebah Tualang Liar",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/ns2-1-1200x1200.png"
       },
       "components": [
         {
